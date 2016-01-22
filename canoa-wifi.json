@@ -1,0 +1,39 @@
+{
+  "places": [
+    {
+      "name": "Surf Shak",
+      "SSID": "Bar Surf",
+      "password": "shak2525"
+    },
+    {
+      "name": "Hostal Rutamar",
+      "SSID": "HOSTAL RUTAMAR",
+      "password": "rutamarforyou"
+    },
+    {
+      "name": "Hostel Baloo",
+      "SSID": "Baloo Canoa",
+      "password": "baloocanoa2001"
+    },
+    {
+      "name": "Hotel Bambu",
+      "SSID": "Hotel-Bambu",
+      "password": "bambu2000"
+    },
+    {
+      "name": "Hostal Restaurante Amalur",
+      "SSID": "HOSTAL RESTAURANTE AMALUR",
+      "password": "redlight83"
+    },
+    {
+      "name": "Hostal Restaurante Amalur",
+      "SSID": "AMALUR",
+      "password": "bluemoon35"
+    },
+    {
+      "name": "El Goloso",
+      "SSID": "Goloso",
+      "password": "052588204"
+    },
+  ]
+}
